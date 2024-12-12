@@ -3,7 +3,7 @@ This repo involves one working as a growth analyst at Mercado Libre, a popular e
 
 
 <b>Sources</b></br>
-Module-08 - Various files for DataFrame methods and correct chaining
-Module-08-Data-Predictions/Class-3/Activities/04-Stu_Interpreting_Forecasting_Results/Unsolved/interpreting_forecasting_results.ipynb - For Prophet model set up
-Module-08-Data-Predictions/Class-2/Activities/03-Stu_Stock_Volatility_and_Google_Trends/Unsolved/stock_volatility_and_google_trends.ipynb - For `rolling(window=4).std()` code
+Module-08 - Various files for DataFrame methods and correct chaining </br>
+Module-08-Data-Predictions/Class-3/Activities/04-Stu_Interpreting_Forecasting_Results/Unsolved/interpreting_forecasting_results.ipynb - For Prophet model set up </br>
+Module-08-Data-Predictions/Class-2/Activities/03-Stu_Stock_Volatility_and_Google_Trends/Unsolved/stock_volatility_and_google_trends.ipynb - For `rolling(window=4).std()` code </br>
 Xpert Learning Assistant - Verifying correct use of methods such as `median()` and `sum()`
